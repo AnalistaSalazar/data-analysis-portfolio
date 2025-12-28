@@ -25,7 +25,6 @@ Standard Error (_se) values for these features.
 
 Worst (largest) observed values for these features (e.g., radius_worst, texture_worst, etc.).
 
-❗ Some variants may include an extra column like Unnamed: 32, which should be removed prior to analysis. 
-GeeksforGeeks
+❗ Disclaimer: box and whisker chart made by Jan-Peter Posthuma doesn't allow to keep a preset order on how columns are shown, that's why some charts are M/B and other are B/M
 
 📌 This dataset usually contains ~569 records with 30+ descriptive measurements per record. 
